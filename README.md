@@ -35,3 +35,7 @@ List of relational tables:
 -	belongs_to: Links all stores to the products they are selling to create an inventory for each store. For each product type available within a store, their product count, product sold, and product returned is also recorded.
 -	cart_detail: Links shopping cart (shopping_cart), customers (shoppers_program) and products (products) to keep track of customers purchase history. 
 -	publishes: Links publisher and products to keep track of which products and published by which publisher.
+
+
+__FILES__
+csvReader.java - Java file to generate insert statements for SQL data.
