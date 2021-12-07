@@ -6,6 +6,8 @@ Course Project Information
 Class: Database Systems
 Members, Romario Medeiros, Rachel Powers, Stanley Wang
 
+YouTube video presentation: https://youtu.be/gXKD_EbxUiw
+
 This project is a representation of a game store’s database, called Just Playin. This database is meant to keep track of stores, tax information, products, product publishers, purchases, clients, and purchase history.
 
 Instructions:
