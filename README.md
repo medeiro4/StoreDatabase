@@ -40,6 +40,10 @@ List of relational tables:
 __FILES__
 
 csvReader.java - Java file to generate insert statements for SQL data.
+
 db_customer.java - Java file to generate additional parameters for customer data table
+
 db_inventory.java - Java file to generate belongs_to data table
+
 cart_gen.java - Java file to create shopping cart detailed view.
+
