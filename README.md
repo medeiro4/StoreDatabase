@@ -2,9 +2,9 @@
 Database Project
 
 
-Course Project Information
-Class: Database Systems
-Members, Romario Medeiros, Rachel Powers, Stanley Wang
+Course Project Information 
+Class: Database Systems 
+Members, Romario Medeiros, Rachel Powers, Stanley Wang 
 
 YouTube video presentation: https://youtu.be/gXKD_EbxUiw
 
